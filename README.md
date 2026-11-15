@@ -87,7 +87,7 @@ Python · React · Claude Agent SDK (multi-agent orchestration) · Playwright (p
 ## Contact
 
 EraTender is available for other bid teams and businesses that prepare tenders.
-For a live demo, pilot or licensing, message me on **[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)**.
+For a live demo, pilot or licensing, message me on **[LinkedIn](https://www.linkedin.com/in/imran-sidin/)**.
 
 ---
 
